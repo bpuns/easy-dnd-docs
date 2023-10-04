@@ -1,4 +1,4 @@
-import{_ as n,o as s,c as a,e as t}from"./app-d46ce3b0.js";const p={},e=t(`<h1 id="vue下使用" tabindex="-1"><a class="header-anchor" href="#vue下使用" aria-hidden="true">#</a> Vue下使用</h1><p>在安装<code>easy-dnd</code>的时候就会携带上 vue 相关桥接文件，所以不要单独安装</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">import</span> <span class="token punctuation">{</span> 
+import{_ as n,o as s,c as a,e as t}from"./app-c4b61520.js";const p={},e=t(`<h1 id="vue下使用" tabindex="-1"><a class="header-anchor" href="#vue下使用" aria-hidden="true">#</a> Vue下使用</h1><p>在安装<code>easy-dnd</code>的时候就会携带上 vue 相关桥接文件，所以不要单独安装</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">import</span> <span class="token punctuation">{</span> 
   <span class="token comment">// vue下使用的拖拽上下文</span>
   DndProvider<span class="token punctuation">,</span>
   <span class="token comment">// drag hook</span>
